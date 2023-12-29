@@ -28,7 +28,10 @@ class _InicioState extends State<Inicio> {
       appBar: AppBar(
         title: Text("Mi App"),
       ),
-      body: Text("Hola mundo"),
+      body: Padding(
+        padding: const EdgeInsets.all(8.0),
+        child:Text("Hola mundo"),
+      ),
     );
   }
 }
