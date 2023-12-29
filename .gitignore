@@ -1,0 +1,16 @@
+# Archivos y directorios de Flutter/Dart
+*/.dart_tool/
+*/.idea/
+*/.vscode/
+*/build/
+*/.packages
+*/.pubspec.lock
+
+# Archivos de sistema
+*/.DS_Store
+*/Thumbs.db
+
+# Archivos generados
+*/build/
+*/ios/Pods/
+*/android/build/
