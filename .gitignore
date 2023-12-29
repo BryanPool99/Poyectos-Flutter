@@ -41,7 +41,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-/hola_mundo/web/
-/hola_mundo/windows/
-/hola_mundo/macos/
-/hola_mundo/linux/
+
+/FLUTTER/hola_mundo/web/
+/FLUTTER/hola_mundo/windows/
+/FLUTTER/hola_mundo/macos/
+/FLUTTER/hola_mundo/linux/
